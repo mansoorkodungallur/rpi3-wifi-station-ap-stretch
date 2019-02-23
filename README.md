@@ -127,6 +127,8 @@ This is optional.  If you do this step, then someone connected to the AP side ca
 ## VNC SETUP IN PI
 
     
-    For that, nothing very complicated, you just need to run the command sudo raspi-config, select the line Interfacing Options, then line VNC, and finally answer that you want to enable VNC.
+    For that, nothing very complicated, you just need to run the command sudo raspi-config, 
+    select the line Interfacing Options, then line VNC, 
+    and finally answer that you want to enable VNC.
     
 
